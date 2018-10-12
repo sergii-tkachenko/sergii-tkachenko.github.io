@@ -1,5 +1,3 @@
-# Proprietary by day, MIT by night
-
 Senior Software Engineer at [@jwplayer](https://github.com/jwplayer).
 
 ## Pet Projects 
