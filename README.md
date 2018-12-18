@@ -9,7 +9,7 @@ Ask me on Twitter: [@sergiitk](https://twitter.com/sergiitk)
 ## test
 
 | [<img src="https://github.com/sergiitk/pagerbeauty/raw/master/.github/images/sponsors-jw-logo.svg?sanitize=true" height="70">](https://www.jwplayer.com/) |
-|---|
+|:---:|
 | [<sub><b>JW Player</b></sub>](https://www.jwplayer.com/) |
 
 
