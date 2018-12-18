@@ -5,3 +5,8 @@ Senior Software Engineer at [@jwplayer](https://github.com/jwplayer).
 
 ## Questions?
 Ask me on Twitter: [@sergiitk](https://twitter.com/sergiitk)
+
+## test
+
+| [<img src="https://github.com/sergiitk/pagerbeauty/blob/master/.github/images/sponsors-jw-logo.svg" height="70"><br /> <sub><b>JW Player</b></sub>](https://www.jwplayer.com/) |
+|---|
