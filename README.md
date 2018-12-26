@@ -5,18 +5,3 @@ Senior Software Engineer at [@jwplayer](https://github.com/jwplayer).
 
 ## Questions?
 Ask me on Twitter: [@sergiitk](https://twitter.com/sergiitk)
-
-## test
-
-| [<img src="https://github.com/sergiitk/pagerbeauty/raw/master/.github/images/sponsors-jw-logo.svg?sanitize=true" height="70">](https://www.jwplayer.com/) |
-|:---:|
-| [<sub><b>JW Player</b></sub>](https://www.jwplayer.com/) |
-
-
-
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
-
